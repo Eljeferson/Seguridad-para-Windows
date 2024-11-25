@@ -1,0 +1,26 @@
+Estado del Firewall:
+
+Configuración de Perfil de dominio: 
+----------------------------------------------------------------------
+Estado                                ACTIVAR
+
+Configuración de Perfil privado: 
+----------------------------------------------------------------------
+Estado                                ACTIVAR
+
+Configuración de Perfil público: 
+----------------------------------------------------------------------
+Estado                                ACTIVAR
+Aceptar
+
+Usuarios administradores:
+Nombre de alias      Administradores
+Comentario           Los administradores tienen acceso completo y sin restricciones al equipo o dominio
+
+Miembros
+
+-------------------------------------------------------------------------------
+Administrador
+USER
+Se ha completado el comando correctamente.
+
